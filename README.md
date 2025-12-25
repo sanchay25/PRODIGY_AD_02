@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="assets/kairo_logo.png" width="120" />
+</p>
+
+<h1 align="center">Kairo</h1>
+<p align="center">
+  A calm, Japanese-inspired productivity app built with Flutter  
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-Framework-blue" />
+  <img src="https://img.shields.io/badge/Internship-PRODIGY_AD_02-orange" />
+  <img src="https://img.shields.io/badge/Status-Completed-success" />
+</p>
 # PRODIGY_AD_02 – Kairo
 
 Kairo is a Flutter-based productivity application developed as part of the PRODIGY internship program (Task 02).
