@@ -64,5 +64,13 @@ This reflects modern product standards and user empathy.
 
 ---
 
-## 📌 Notes
-This project focuses on clean code structure, usability, and inclusive design principles while meeting internship requirements.
+## 🌍 Selection of Companion
+
+Kairo allows users to select a companion during onboarding,  
+ensuring a **personalized and inclusive experience** from the start.
+
+<p align="center">
+  <img src="assets/images/anime_boy.png" width="220" />
+  <img src="assets/images/anime_girl.png" width="220" />
+</p>
+
