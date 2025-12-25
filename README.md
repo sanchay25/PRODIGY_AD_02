@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="E:\sanchay\todolist\assets\images/kairo_logo.png"/>
+  <img src="assets\images/kairo_logo.png"/>
 </p>
 
 <h1 align="center">Kairo</h1>
