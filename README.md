@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets\images/banner.jpg"/>
+<img src="assets/images/banner.jpg" width="100%" />
 </p>
 
 <h1 align="center">Kairo</h1>
@@ -73,5 +73,25 @@ ensuring a **personalized and inclusive experience** from the start.
   <img src="assets/images/boy.jpg" width="220" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/images/girl.jpg" width="220" />
+</p>
+
+---
+## 📥 Download APK
+
+<p align="center">
+  <a href="https://github.com/sanchay25/PRODIGY_AD_02/releases/tag/v1.0">
+    <img src="https://img.shields.io/badge/Download-APK-success?style=for-the-badge&logo=android" />
+  </a>
+</p>
+
+---
+## 📸 App Screenshots
+
+A glimpse into Kairo’s calm and minimal task flow.
+
+<p align="center">
+  <img src="assets/Screenshots/Home.JPG" width="55%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/Screenshots/Profile.JPG" width="40%" />
 </p>
 
