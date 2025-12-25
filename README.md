@@ -16,10 +16,5 @@ This project fulfills the requirements of Internship Task 02.
 - Flutter
 - Dart
 
-## ▶️ How to Run
-1. Clone the repository
-2. Run `flutter pub get`
-3. Run `flutter run`
-
 ## 📌 Notes
 The project emphasizes clean code structure and clarity.
