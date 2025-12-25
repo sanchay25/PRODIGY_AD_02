@@ -70,7 +70,8 @@ Kairo allows users to select a companion during onboarding,
 ensuring a **personalized and inclusive experience** from the start.
 
 <p align="center">
-  <img src="assets/images/anime_boy.png" width="220" />
-  <img src="assets/images/anime_girl.png" width="220" />
+  <img src="assets/images/boy.jpg" width="220" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/images/girl.jpg" width="220" />
 </p>
 
